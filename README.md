@@ -1,4 +1,7 @@
 # Hackclub-notes.github.io
+
+Made with the help of Tutorials and i changed the user interface and add some my own features.
+
  
 Welcome to the Hackclub Notes , this is powerful webapp allows you to take notes, save them and access them even after you refresh the page or close the Browser. This web app uses SessionStorage to persist your notes across page reloads, making sure your notes are never lost.
 
